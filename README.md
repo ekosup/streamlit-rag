@@ -105,5 +105,4 @@ streamlit-rag/
 
 ## Lisensi
 
-[MIT License](LICENSE)</content>
-<parameter name="filePath">/Users/ekosupriyono/Projects/streamlit-rag/README.md
+[MIT License]
